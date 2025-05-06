@@ -1,0 +1,116 @@
+Student,Year,sample,type,Q,A,P
+A,2025,Graniteville Granite,HS,,,
+B,2025,Graniteville Granite,HS,19,63,19
+C,2025,Graniteville Granite,HS,20,70,10
+D,2025,Graniteville Granite,HS,20,75,0
+E,2025,Graniteville Granite,HS,,,
+F,2025,Graniteville Granite,HS,30,40,25
+G,2025,Graniteville Granite,HS,25,55,10
+H,2025,Graniteville Granite,HS,35,50,15
+I,2025,Graniteville Granite,HS,39,50,11
+A,2025,Graniteville Granite,TS,,,
+B,2025,Graniteville Granite,TS,45,30,25
+C,2025,Graniteville Granite,TS,20,60,20
+D,2025,Graniteville Granite,TS,20,40,20
+E,2025,Graniteville Granite,TS,60,18,19
+F,2025,Graniteville Granite,TS,30,45,20
+G,2025,Graniteville Granite,TS,40,35,15
+H,2025,Graniteville Granite,TS,50,20,30
+I,2025,Graniteville Granite,TS,45,33,12
+J,2017,Graniteville Granite,TS,45,10,45
+K,2024,Graniteville Granite,TS,37,41,20
+L,2024,Graniteville Granite,TS,36,31,29
+M,2024,Graniteville Granite,TS,49,41,18
+TRUE,2025,Graniteville Granite,TS,42,41,16
+A,2025,Butler Hill Granite,HS,20,0,70
+B,2025,Butler Hill Granite,HS,35,40,15
+C,2025,Butler Hill Granite,HS,30,40,30
+D,2025,Butler Hill Granite,HS,15,80,0
+E,2025,Butler Hill Granite,HS,45,43,0
+F,2025,Butler Hill Granite,HS,35,35,25
+G,2025,Butler Hill Granite,HS,20,40,30
+H,2025,Butler Hill Granite,HS,35,40,15
+I,2025,Butler Hill Granite,HS,30,45,11
+A,2025,Butler Hill Granite,TS,20,0,70
+B,2025,Butler Hill Granite,TS,35,55,10
+C,2025,Butler Hill Granite,TS,30,40,30
+D,2025,Butler Hill Granite,TS,30,40,20
+E,2025,Butler Hill Granite,TS,40,52,0
+F,2025,Butler Hill Granite,TS,30,40,25
+G,2025,Butler Hill Granite,TS,45,25,20
+H,2025,Butler Hill Granite,TS,35,55,10
+I,2025,Butler Hill Granite,TS,30,50,20
+J,2017,Butler Hill Granite,TS,40,0,25
+K,2024,Butler Hill Granite,TS,39,43,11
+L,2024,Butler Hill Granite,TS,40,50,5
+M,2024,Butler Hill Granite,TS,40,50,5
+TRUE,2025,Butler Hill Granite,TS,41,45,14
+A,2025,Silver Mine Granite,HS,40,0,50
+B,2025,Silver Mine Granite,HS,5,45,35
+C,2025,Silver Mine Granite,HS,30,25,45
+D,2025,Silver Mine Granite,HS,25,50,0
+E,2025,Silver Mine Granite,HS,20,60,0
+F,2025,Silver Mine Granite,HS,30,40,20
+G,2025,Silver Mine Granite,HS,20,35,30
+H,2025,Silver Mine Granite,HS,20,35,30
+I,2025,Silver Mine Granite,HS,30,40,25
+A,2025,Silver Mine Granite,TS,40,0,50
+B,2025,Silver Mine Granite,TS,30,50,20
+C,2025,Silver Mine Granite,TS,35,40,25
+D,2025,Silver Mine Granite,TS,25,50,25
+E,2025,Silver Mine Granite,TS,30,60,0
+F,2025,Silver Mine Granite,TS,25,50,20
+G,2025,Silver Mine Granite,TS,30,20,30
+H,2025,Silver Mine Granite,TS,30,50,20
+I,2025,Silver Mine Granite,TS,25,45,20
+J,2017,Silver Mine Granite,TS,35,30,20
+K,2024,Silver Mine Granite,TS,31,42,18
+L,2024,Silver Mine Granite,TS,25,57,5
+M,2024,Silver Mine Granite,TS,25,55,7
+TRUE,2025,Silver Mine Granite,TS,28,60,11
+A,2025,Knob Lick Granite,HS,,,
+B,2025,Knob Lick Granite,HS,0,50,30
+C,2025,Knob Lick Granite,HS,20,30,50
+D,2025,Knob Lick Granite,HS,35,50,0
+E,2025,Knob Lick Granite,HS,30,70,0
+F,2025,Knob Lick Granite,HS,20,60,15
+G,2025,Knob Lick Granite,HS,35,40,15
+H,2025,Knob Lick Granite,HS,35,40,15
+I,2025,Knob Lick Granite,HS,26,39,12
+A,2025,Knob Lick Granite,TS,24,0,70
+B,2025,Knob Lick Granite,TS,40,40,20
+C,2025,Knob Lick Granite,TS,25,30,45
+D,2025,Knob Lick Granite,TS,25,15,60
+E,2025,Knob Lick Granite,TS,40,50,0
+F,2025,Knob Lick Granite,TS,25,55,15
+G,2025,Knob Lick Granite,TS,30,50,10
+H,2025,Knob Lick Granite,TS,40,40,20
+I,2025,Knob Lick Granite,TS,25,50,10
+J,2017,Knob Lick Granite,TS,30,15,30
+K,2024,Knob Lick Granite,TS,34,45,8
+L,2024,Knob Lick Granite,TS,16,68,5
+M,2024,Knob Lick Granite,TS,14,70,5
+TRUE,2025,Knob Lick Granite,TS,42,52,6
+A,2025,Knob Lick Dike,HS,,,
+B,2025,Knob Lick Dike,HS,0,25,20
+C,2025,Knob Lick Dike,HS,5,20,35
+D,2025,Knob Lick Dike,HS,,,
+E,2025,Knob Lick Dike,HS,5,65,0
+F,2025,Knob Lick Dike,HS,10,60,25
+G,2025,Knob Lick Dike,HS,25,50,15
+H,2025,Knob Lick Dike,HS,0,55,20
+I,2025,Knob Lick Dike,HS,20,45,20
+A,2025,Knob Lick Dike,TS,,,
+B,2025,Knob Lick Dike,TS,30,55,15
+C,2025,Knob Lick Dike,TS,20,30,50
+D,2025,Knob Lick Dike,TS,20,0,65
+E,2025,Knob Lick Dike,TS,10,65,5
+F,2025,Knob Lick Dike,TS,25,35,35
+G,2025,Knob Lick Dike,TS,15,60,17
+H,2025,Knob Lick Dike,TS,5,50,30
+I,2025,Knob Lick Dike,TS,25,35,30
+J,2017,Knob Lick Dike,TS,20,40,40
+K,2024,Knob Lick Dike,TS,22,39,28
+L,2024,Knob Lick Dike,TS,,,
+M,2024,Knob Lick Dike,TS,15,45,25
+TRUE,2025,Knob Lick Dike,TS,32,49,19
